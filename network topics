@@ -1,0 +1,190 @@
+Fundamentos de redes de computadores:
+
+Evolução e aplicabilidade, classificação de Redes, arquitetura de Protocolos;
+
+tipos de Mensagem ( Unicast, Broadcast e Multcast);
+
+Modelo OSI - camada física:
+
+Características e Simbologia, aplicabilidade;
+
+Topologias;
+
+Sistemas de Comunicação de dados, Multiplexação, modems, meios físicos de transmissão de dados;
+
+Modelo OSI - camada de enlace:
+
+Características e simbologia;
+
+Aplicabilidade;
+
+Padrões Institute of Electrical and Electronics Engineers (IEEE) para Redes Locais;
+
+Domínio de Colisão;
+
+Modelo OSI - camada de rede:
+
+Características e simbologia;
+
+Aplicabilidade;
+
+Protocolo IP (IPv4, IPv6); 
+
+Endereçamento;
+
+Internet Control Message Protocol (ICMP);
+
+Address Resolution Protocol (ARP);
+
+Domínio de Broadcast;
+
+Modelo OSI - camada de transporte:
+
+Características e simbologia;
+
+Aplicabilidade;
+
+Serviços;
+
+Endereçamento;
+
+Controle de conexão;
+
+Controle de Fluxo;
+
+Controle de congestionamento;
+
+Controle de erros;
+
+Transporte de dados;
+
+Modelo OSI - camadas superiores:
+
+Sessão: Características e Simbologia, aplicabilidade, funções;
+
+Apresentação: Características e Simbologia, aplicabilidade, nível de Serviço;
+
+Aplicação: Características e Simbologia, aplicabilidade, protocolos;
+
+Pilha de protocolos da arquitetura TCP/IP:
+
+Sub-redes;
+Analisadores de protocolos:
+
+WireShark, MSNM, NetStumbler;
+
+Funcionamento e caractesristicas de ativos de rede:
+
+Router, Switch, Access Point, Bridge.
+
+Arquitetura multicamadas:
+
+Acesso, Distribuição e Núcleo;
+
+Configuração básica do equipamento:
+
+CLI ou GUI;
+
+Conceitos de comutação:
+
+Armazenar e encaminhar, comutação rápida e livre de fragmentos; Comutação simétrica e assimétrica; Protocolos de autenticação (802.1X);
+
+Conceitos de VLANs e 802.1Q:
+
+Protocolo Spanning-Tree;
+
+Roteamento entre VLANs;
+
+Switch Multicamada;
+
+Configuração de segurança em switches:
+
+Port-Security, DHCP, Snooping, Gratuituous, ARP, etc.;
+
+Conceitos de redes sem fio
+
+Conceitos de radio-frequência:
+
+Múltiplos caminhos, interferência co-canal e canal adjacente, interferências externas;
+
+Configuração de equipamentos de rede sem fio:
+
+Controlador Wireless, Access Point;
+
+Especificações de tipos de antenas
+
+Protocolos de segurança de redes sem fio:
+
+EP, WPA, WPA2, IEEE802.11i;
+
+ Padrões de rede sem fio.
+
+Roteamento IP;
+
+VLSM/CIDR;
+
+Classless/classfull;
+
+Roteamento estático;
+
+Roteamento padrão;
+
+Sistemas Autônomos;
+
+Routing Information Protocol:
+
+RIP; Interior Gateway Routing Protocol -IGRP;
+
+Enhanced Interior Gateway Routing Protocol (EIGRP); Open Shortest Path First (OSPF);
+
+Border Gateway Protocol (BGP);
+
+Topologia Lógica de Redes:
+
+Software para desenho de topologias lógicas;
+
+Interfaces GUI e CLI para ativos de redes;
+
+Segurança em Roteadores;
+
+Analisadores de protocolos: 
+
+WireShark, MSNM, NetStumbler;
+Funcionamento e características de ativos de rede:
+
+Router, Switch, Access Point, Bridge.
+
+Roteamento IP;
+
+VLSM/CIDR;
+
+Classless/classfull;
+
+Roteamento estático;
+
+Roteamento padrão;
+
+Sistemas Autônomos;
+
+Routing Information Protocol:
+
+RIP; Interior Gateway Routing Protocol -IGRP;
+
+Enhanced Interior Gateway Routing Protocol (EIGRP); Open Shortest Path First (OSPF);
+
+Border Gateway Protocol (BGP);
+
+Topologia Lógica de Redes:
+
+Software para desenho de topologias lógicas;
+
+Interfaces GUI e CLI para ativos de redes;
+
+Segurança em Roteadores;
+
+Analisadores de protocolos: 
+
+WireShark, MSNM, NetStumbler;
+Funcionamento e características de ativos de rede:
+
+Router, Switch, Access Point, Bridge.
